@@ -7,6 +7,8 @@ I enjoy exploring data through Python, SQL and visualisation tools to expose pat
 
 Here you will find some of my projects as I sharpen my skills in development, data cleaning, exploration and storytelling.
 
+This is my new GitHub please bve patient while I upload projects!
+
 
 ## Skills
 
