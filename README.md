@@ -1,18 +1,32 @@
 ## About Me
+Hi, I’m Paul, an aspiring developer with a strong interest in Python, SQL, and data analysis. I enjoy working with data, exploring patterns, and building solutions that provide real value and insight.
+I’m actively improving my skills and looking for opportunities to apply them professionally, particularly in roles involving data, analytics, or software development.
 
+## Learning & Development
+I’m currently studying Machine Learning and AI, focusing on:
+Computer vision and image classification
+Data preprocessing and feature engineering
+Neural networks and model evaluation
+Applying ML techniques to real-world problems
 
-I'm an aspiring data analyst and developer with a passion for transforming data into actionable insights.
+## Skills & Tools
+Python (pandas, NumPy, Matplotlib, Jupyter)
+SQL (joins, aggregation, analysis, optimisation)
+Data cleaning, analysis, and visualisation
+Basic machine learning
+Git / GitHub
+Working with APIs and structured datasets
 
-I enjoy exploring data through Python, SQL and visualisation tools to expose patterns and drive data driven decisions.
+## Current Projects
+Python data analysis and exploration
+Working with relational datasets using SQL
+Experimenting with ML models and techniques
 
-Here you will find some of my projects as I sharpen my skills in development, data cleaning, exploration and storytelling.
+## Goals
+Start a role where I can grow as a developer and contribute to real projects
+Build a strong portfolio of practical, well-documented work
+Continue learning and applying machine learning, AI, and data engineering
 
-This is my new GitHub please bve patient while I upload projects!
-
-
-## Skills
-
- - Python
- - C#
- - VB
- - SQL
+## Open to Opportunities
+I’m actively looking for entry-level roles, internships, and collaborative projects.
+If you’re hiring or working on something interesting, feel free to reach out!
