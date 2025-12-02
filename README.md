@@ -1,6 +1,7 @@
 ## About Me
-Hi, I’m Paul, an aspiring developer with a strong interest in Python, SQL, and data analysis. I enjoy working with data, exploring patterns, and building solutions that provide real value and insight.
-I’m actively improving my skills and looking for opportunities to apply them professionally, particularly in roles involving data, analytics, or software development.
+Hi, I’m Paul, an aspiring developer with a strong interest in Python, SQL, and data analysis. 
+I enjoy working with data, exploring patterns, and building solutions that deliver real value and insight.
+I’m actively developing my skills and looking for opportunities to apply them professionally, particularly in roles involving data, analytics, or software development.
 
 ## Learning & Development
 I’m currently studying Machine Learning and AI, focusing on:
