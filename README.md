@@ -1,33 +1,28 @@
 ## About Me
-Hi, I’m Paul, an aspiring developer with a strong interest in Python, SQL, and data analysis. 
-I enjoy working with data, exploring patterns, and building solutions that deliver real value and insight.
-I’m actively developing my skills and looking for opportunities to apply them professionally, particularly in roles involving data, analytics, or software development.
+Hi, I'm Paul, an aspiring Software Developer and Data Analyst with a passion for Python, SQL, data analysis, and machine learning. I enjoy transforming complex data into meaningful insights and developing practical software solutions that solve real-world problems.
+I have over 20 years of experience working in manufacturing and technical support, where I developed strong analytical, problem-solving, and process improvement skills. Alongside my professional career, I have been studying Computing and IT with a focus on software development, data management, and artificial intelligence, while building a portfolio of practical Python, SQL, and machine learning projects.
 
 ## Learning & Development
-I’m currently studying Machine Learning and AI, focusing on:
-Computer vision and image classification
-Data preprocessing and feature engineering
-Neural networks and model evaluation
-Applying ML techniques to real-world problems
+Over the past year I have dedicated significant time to completing my university studies and supporting a close family member through a serious illness. Although this temporarily limited my availability for new opportunities, it strengthened my resilience, time management, and determination to transition into a career in software development. I am now fully focused on building my portfolio and securing my first professional developer role.
 
-## Skills & Tools
-Python (pandas, NumPy, Matplotlib, Jupyter)
-SQL (joins, aggregation, analysis, optimisation)
-Data cleaning, analysis, and visualisation
-Basic machine learning
-Git / GitHub
-Working with APIs and structured datasets
+## Technical Skills
+Programming: Python, SQL, VB.NET, C#, Java
+Data Analysis: pandas, NumPy, Matplotlib, Jupyter Notebook
+Databases: SQL, SQLite, MongoDB
+Machine Learning: Data preprocessing, computer vision, image classification, neural networks, model evaluation
+Development Tools: Git, GitHub, Visual Studio, VS Code
+Other: REST APIs, data visualisation, automation, data cleaning and transformation
 
-## Current Projects
-Python data analysis and exploration
-Working with relational datasets using SQL
-Experimenting with ML models and techniques
+## Current Focus
+I'm currently expanding my knowledge in machine learning and artificial intelligence while developing projects that demonstrate practical software engineering and analytical skills, including:
+Data analysis and visualisation projects
+Python desktop applications
+SQL database solutions
+Automation tools
+Computer vision and machine learning applications
 
-## Goals
-Start a role where I can grow as a developer and contribute to real projects
-Build a strong portfolio of practical, well-documented work
-Continue learning and applying machine learning, AI, and data engineering
+## Career Goals
+I am seeking an entry-level Software Developer, Python Developer, Data Analyst, or Machine Learning position where I can contribute to meaningful projects while continuing to develop my technical skills. I enjoy learning new technologies, solving challenging problems, and collaborating with others to build high-quality software.
 
 ## Open to Opportunities
-I’m actively looking for entry-level roles, internships, and collaborative projects.
-If you’re hiring or working on something interesting, feel free to reach out!
+I am actively seeking graduate, junior, and entry-level opportunities, internships, freelance projects, and open-source collaborations. If you're looking for someone who is enthusiastic, technically curious, and committed to continuous learning, I'd be delighted to connect.
